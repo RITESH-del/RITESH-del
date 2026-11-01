@@ -1,36 +1,42 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Original anime-inspired night cityscape with a crescent moon, glowing windows, and cherry blossoms" width="100%" />
-  <h1>Ritesh Kumar</h1>
-  <p><strong>Building useful web software · exploring applied machine learning</strong></p>
+  <h1>Hi there! 👋</h1>
+  <p><strong>I’m Ritesh Kumar — building useful web software and exploring applied machine learning.</strong></p>
+  <p>Full-stack development, computer-vision workflows, and developer tools.</p>
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=70E1C8&center=true&vCenter=true&width=560&lines=Building+full-stack+web+apps;Exploring+computer+vision+workflows;Building+useful+developer+tools" alt="Building full-stack web apps · Exploring computer vision workflows · Building useful developer tools" />
-  </p>
-  <p>
-    <a href="https://github.com/RITESH-del">GitHub</a>
-    &nbsp;·&nbsp;
-    <a href="mailto:riteshrishu2005@gmail.com">Email</a>
+    <a href="https://github.com/RITESH-del"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+    <a href="mailto:riteshrishu2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 
----
+<hr />
 
-## About
+<h2 align="center">🚀 Who am I?</h2>
+<p align="center">I build full-stack web applications and developer-facing tools, and explore applied ML through computer-vision workflows. Recent work includes a themeable CSS component library and static-site generator, a configurable chest-X-ray classification pipeline, and Android app coursework.</p>
 
-I build full-stack web applications and developer-facing tools, and explore applied ML through computer-vision workflows. Recent work includes a themeable CSS component library and static-site generator, a configurable chest-X-ray classification pipeline, and Android app coursework. I’m interested in clear interfaces, reusable components, and reproducible data workflows.
+<hr />
 
-## Technology
+<h2 align="center">🛠️ Tools of trade</h2>
 
-**Languages** · JavaScript · TypeScript · Python · Java · HTML · CSS  
-**Frontend** · React · EJS  
-**Backend & data** · Node.js · Express · MongoDB  
-**AI / ML** · PyTorch · OpenCV · Transformers · scikit-learn · Jupyter  
-**Tools** · Git · Vite
-
+<p align="center"><strong>Languages</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,react,nodejs,express,mongodb,html,css,pytorch,opencv,git&perline=13&theme=dark" alt="JavaScript, TypeScript, Java, Python, React, Node.js, Express, MongoDB, HTML, CSS, PyTorch, OpenCV, and Git icons" width="723" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
-## Featured projects
+<p align="center"><strong>Web</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/EJS-A91E50?style=for-the-badge" alt="EJS" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+<p align="center"><strong>AI / ML</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" alt="Transformers" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+</p>
+
+<p align="center"><strong>Tools</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+<h2 align="center">✨ Featured projects</h2>
 
 ### [CSS Utilities + Static Site Generator](https://github.com/RITESH-del/CSS-Utilites-SSG)
 
@@ -50,31 +56,19 @@ A Java Android app experiment with authentication and navigation, a reels/storie
 
 **Stack:** Java · Android · Firebase
 
-## GitHub activity
+<h2 align="center">🐍 Contribution snake</h2>
 
 <p align="center">
-  <a href="https://github.com/RITESH-del?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRITESH-del&query=%24.public_repos&label=public%20repos&color=70E1C8&style=flat" alt="Public repository count" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/users/RITESH-del/contributions">Contribution activity</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/RITESH-del?tab=repositories">Repositories and stars</a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RITESH-del/RITESH-del/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RITESH-del/RITESH-del/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/RITESH-del/RITESH-del/output/github-contribution-grid-snake.svg" alt="Animated snake traversing my GitHub contribution graph" />
+  </picture>
 </p>
 
-<p align="center">
-  <a href="https://github.com/RITESH-del?tab=repositories">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RITESH-del&theme=nord_dark" alt="Top languages by repository" width="340" />
-  </a>
-</p>
 
-GitHub’s native contribution calendar below this README is the source of truth for contribution activity and streaks.
+<p align="center">The snake follows GitHub’s contribution graph; the native contribution calendar on my profile remains the source of truth for activity and streaks.</p>
 
-## Currently exploring
+<h2 align="center">🔭 Currently exploring</h2>
+<p align="center">Computer-vision training and evaluation, LLM-backed developer experiences, and configurable CLI workflows.</p>
 
-Computer-vision training and evaluation, LLM-backed developer experiences, and configurable CLI workflows.
-
-## Connect
-
-- [GitHub](https://github.com/RITESH-del)
-- [Email](mailto:riteshrishu2005@gmail.com)
