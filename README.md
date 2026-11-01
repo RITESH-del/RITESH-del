@@ -70,8 +70,8 @@ A Java Android app experiment with authentication and navigation, a reels/storie
 
 <!-- <p align="center">The snake follows GitHub’s contribution graph; the native contribution calendar on my profile remains the source of truth for activity and streaks.</p> -->
 <hr />
-<h1>🔭 Currently exploring</h1>
-<pre align="center">Computer Vision research, model training and evaluation, LLM-powered developer experiences, full-stack engineering, 
+<h1 align="center">🔭 Currently exploring</h1>
+<pre align="center" style="overflow: hidden;">Computer Vision research, model training and evaluation, LLM-powered developer experiences, full-stack engineering, 
 systems programming, and intelligent CLI tooling. Exploring the intersection of AI, software engineering,   
 and developer productivity.</pre>
 
