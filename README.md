@@ -62,7 +62,7 @@ A Java Android app experiment with authentication and navigation, a reels/storie
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RITESH-del/RITESH-del/raw/refs/heads/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/RITESH-del/RITESH-del/raw/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/RITESH-del/RITESH-del/raw/refs/heads/output/github-contribution-grid-snake.svg" alt="Animated snake traversing my GitHub contribution graph" />
+    <img width="100%" src="https://github.com/RITESH-del/RITESH-del/raw/refs/heads/output/github-contribution-grid-snake.svg" alt="Animated snake traversing my GitHub contribution graph" />
   </picture>
 </p>
 
