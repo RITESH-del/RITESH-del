@@ -1,8 +1,7 @@
+<h1>Hi there! 👋</h1>
 <div align="center">
-  <h1>Hi there! 👋</h1>
-  <h1 style="text-align:center;">🚀Who am i</h1>
-  <pre><strong>I’m Ritesh Kumar — building useful web software and exploring applied machine learning.</strong> 
-  Full-stack development, computer-vision workflows, and developer tools.</pre>
+<pre align="center"><b>Hi! I’m Ritesh Kumar — building useful web software and exploring applied machine learning.</b> 
+Full-stack development, computer-vision workflows, and developer tools.</pre>
   <p>
     <a href="https://github.com/RITESH-del"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
     <a href="mailto:riteshrishu2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -11,12 +10,12 @@
 
 <hr />
 
-<h2 align="center">🚀 Who am I?</h2>
+<h1 align="center">🚀 Who am I?</h1>
 <p align="center">I build full-stack web applications and developer-facing tools, and explore applied ML through computer-vision workflows. Recent work includes a themeable CSS component library and static-site generator, a configurable chest-X-ray classification pipeline, and Android app coursework.</p>
 
 <hr />
 
-<h2 align="center">🛠️ Tools of trade</h2>
+<h1 align="center">🛠️ Tools of trade</h1>
 
 <p align="center"><strong>Languages</strong></p>
 <p align="center">
@@ -37,7 +36,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
-<h2 align="center">✨ Featured projects</h2>
+<hr />
+<h1 align="center">🪶 Featured projects</h1>
 
 ### [CSS Utilities + Static Site Generator](https://github.com/RITESH-del/CSS-Utilites-SSG)
 
@@ -57,7 +57,7 @@ A Java Android app experiment with authentication and navigation, a reels/storie
 
 **Stack:** Java · Android · Firebase
 
-<h2 align="center">🐍 Contribution snake</h2>
+<!-- <h2 align="center">🐍 Contribution snake</h2>
 
 <p align="center">
   <picture>
@@ -65,11 +65,13 @@ A Java Android app experiment with authentication and navigation, a reels/storie
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/RITESH-del/RITESH-del/raw/refs/heads/output/github-contribution-grid-snake.svg" />
     <img width="100%" src="https://github.com/RITESH-del/RITESH-del/raw/refs/heads/output/github-contribution-grid-snake.svg" alt="Animated snake traversing my GitHub contribution graph" />
   </picture>
-</p>
+</p> -->
 
 
-<p align="center">The snake follows GitHub’s contribution graph; the native contribution calendar on my profile remains the source of truth for activity and streaks.</p>
-
-<h2 align="center">🔭 Currently exploring</h2>
-<p align="center">Computer-vision training and evaluation, LLM-backed developer experiences, and configurable CLI workflows.</p>
+<!-- <p align="center">The snake follows GitHub’s contribution graph; the native contribution calendar on my profile remains the source of truth for activity and streaks.</p> -->
+<hr />
+<h1>🔭 Currently exploring</h1>
+<pre align="center">Computer Vision research, model training and evaluation, LLM-powered developer experiences, full-stack engineering, 
+systems programming, and intelligent CLI tooling. Exploring the intersection of AI, software engineering,   
+and developer productivity.</pre>
 
