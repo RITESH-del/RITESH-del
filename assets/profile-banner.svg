@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Anime-inspired night cityscape</title>
+  <desc id="desc">An original illustrated city at night with a crescent moon, glowing windows, and cherry blossoms; no character portrait.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1018" />
+      <stop offset="0.56" stop-color="#151a2a" />
+      <stop offset="1" stop-color="#211d35" />
+    </linearGradient>
+    <linearGradient id="moon" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff0d7" />
+      <stop offset="1" stop-color="#e8b8cb" />
+    </linearGradient>
+    <radialGradient id="city-glow">
+      <stop offset="0" stop-color="#70e1c8" stop-opacity="0.17" />
+      <stop offset="0.55" stop-color="#b8a2ff" stop-opacity="0.1" />
+      <stop offset="1" stop-color="#70e1c8" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#d8e2f0" stroke-opacity="0.045" stroke-width="1" />
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" rx="22" fill="url(#sky)" />
+  <rect width="1200" height="280" rx="22" fill="url(#grid)" />
+  <ellipse cx="875" cy="130" rx="380" ry="255" fill="url(#city-glow)" />
+  <path d="M0 106Q92 66 184 104T368 98T553 110T744 92T935 100T1200 78V0H0Z" fill="#202438" opacity="0.48" />
+  <circle cx="930" cy="75" r="48" fill="url(#moon)" opacity="0.94" />
+  <circle cx="952" cy="57" r="47" fill="#171b2b" />
+  <circle cx="792" cy="56" r="2" fill="#e7d8ec" />
+  <circle cx="1050" cy="45" r="2.5" fill="#70e1c8" />
+  <circle cx="1090" cy="102" r="1.8" fill="#e7d8ec" />
+  <circle cx="722" cy="105" r="1.5" fill="#b8a2ff" />
+  <path d="M35 34C104 57 131 90 210 94C258 96 290 72 335 54" fill="none" stroke="#536079" stroke-linecap="round" stroke-width="3" />
+  <path d="M169 77C179 63 187 56 197 47M252 88C265 77 272 66 279 55" fill="none" stroke="#536079" stroke-linecap="round" stroke-width="2" />
+  <g fill="#e8abc8">
+    <circle cx="189" cy="42" r="7" /><circle cx="181" cy="48" r="7" /><circle cx="197" cy="49" r="7" /><circle cx="189" cy="56" r="7" /><circle cx="189" cy="49" r="3" fill="#f7d991" />
+    <circle cx="274" cy="51" r="6" /><circle cx="267" cy="57" r="6" /><circle cx="281" cy="58" r="6" /><circle cx="274" cy="64" r="6" /><circle cx="274" cy="57" r="2.5" fill="#f7d991" />
+    <circle cx="326" cy="51" r="5" /><circle cx="320" cy="56" r="5" /><circle cx="332" cy="57" r="5" /><circle cx="326" cy="62" r="5" /><circle cx="326" cy="56" r="2" fill="#f7d991" />
+  </g>
+  <path d="M0 224V179H55V193H93V156H133V198H177V170H225V208H272V146H317V192H355V164H401V207H445V180H493V214H537V163H581V194H628V151H670V210H716V179H759V199H805V160H849V206H891V177H937V214H986V158H1032V194H1076V167H1121V207H1161V181H1200V280H0Z" fill="#172236" />
+  <path d="M0 239V204H70V222H125V188H164V225H213V202H257V232H304V188H346V226H395V206H448V237H503V197H550V225H608V190H656V229H711V208H760V238H817V201H866V230H916V206H970V240H1023V199H1075V225H1124V205H1200V280H0Z" fill="#101827" />
+  <g fill="#70e1c8" opacity="0.78">
+    <rect x="103" y="169" width="5" height="9" rx="1" /><rect x="116" y="169" width="5" height="9" rx="1" />
+    <rect x="284" y="158" width="5" height="9" rx="1" /><rect x="299" y="158" width="5" height="9" rx="1" />
+    <rect x="550" y="175" width="5" height="9" rx="1" /><rect x="565" y="175" width="5" height="9" rx="1" />
+    <rect x="824" y="171" width="5" height="9" rx="1" /><rect x="839" y="171" width="5" height="9" rx="1" />
+    <rect x="1000" y="171" width="5" height="9" rx="1" /><rect x="1015" y="171" width="5" height="9" rx="1" />
+  </g>
+  <g fill="#d7a8d8" opacity="0.74">
+    <rect x="186" y="182" width="5" height="9" rx="1" /><rect x="202" y="182" width="5" height="9" rx="1" />
+    <rect x="465" y="190" width="5" height="9" rx="1" /><rect x="480" y="190" width="5" height="9" rx="1" />
+    <rect x="682" y="164" width="5" height="9" rx="1" /><rect x="697" y="164" width="5" height="9" rx="1" />
+    <rect x="1091" y="179" width="5" height="9" rx="1" /><rect x="1106" y="179" width="5" height="9" rx="1" />
+  </g>
+  <path d="M0 246C214 235 345 253 520 246S864 233 1200 247" fill="none" stroke="#34405a" stroke-width="2" />
+  <path d="M0 263C252 254 457 269 716 260S1000 254 1200 265" fill="none" stroke="#70e1c8" stroke-opacity="0.25" stroke-width="1.5" />
+  <path d="M1017 227H1140" stroke="#b8a2ff" stroke-opacity="0.6" stroke-width="2" />
+  <circle cx="1149" cy="227" r="3" fill="#70e1c8" />
+</svg>
